@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.y271727uy.fbf.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "fbf.refmap.json",
+  "mixins": [
+    "ModdedBiomeSlicesManagerMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
